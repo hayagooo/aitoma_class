@@ -1,0 +1,7 @@
+{
+  "name": "aitoma_cctv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
